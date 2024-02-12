@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+h1     {color:blue;}
+h2     {color:red;}
+h2     {text-align:center;}
+.img-container {
+text-align: center;
+}
+p      {
+        border: 1px white;
+		padding: 30px;
+		margin: 30px;
+		background-color: white;
+		}
+
+</style>
+</head>
+<body style="background-color:#FFE6E8;">
+
+<h1 style="text-align: center;"> The Five Nursing Process </h1><br>
+
+<h3> What is so important about the five nursing process? How can we use it as the cornerstone of quality patient care and clinical excellence? </h3>
+<h3>Hello! I am Dejhanera Isabel T. Billones, a Level II nursing student from Aklan State University and I'm here to show you about the Five Nursing Process. </h3>
+
+<h3> The five nursing process is like a roadmap for nurses, helping them provide the best care possible. It involves five steps: assessment, diagnosis, planning, implementation, and evaluation. 
+From understanding a patient's needs to planning their care and making sure it works, the nursing process is essential for delivering quality healthcare. 
+Let's explore how these steps come together to improve patient outcomes and make a difference in healthcare. </h3>
+
+<h3> To make it easy, there is a mnemonic that was developed to help us remember the steps of the foundation in health care which is ADPIE. </h3><hr>
+
+
+<div class="img-container">
+<img src=https://medicine.utah.edu/sites/g/files/zrelqx391/files/styles/wide_wide/public/media/images/2022/taking-notes-on-clipboard2.jpg?h=8ba26d87&itok=A96X57uR width= "500" height= "500" > </div>
+
+<h2><b> A - assessment </b></h2> 
+
+<p style="font-size:130%;"> Assessment in the nursing process is the first step where nurses gather information about a patient's health status, needs, and concerns. 
+This involves collecting data through observation, interviews, physical examinations, and reviewing medical records. Nurses assess various aspects such as physical health, mental health, social support, and environmental factors to understand the patient's overall condition and identify any potential issues or risks. 
+Effective assessment lays the foundation for developing individualized care plans and providing appropriate interventions to promote health and well-being. </p><hr>
+
+
+<div class="img-container">
+<img src=https://strategicpsychology.com.au/wp-content/uploads/2023/08/Doctor-with-female-patient.jpg width= "500" height= "500" ></div>
+
+<h2><b> D - diagnosis </b></h2>
+
+<p style="font-size:130%;"> Diagnosis involves analyzing the data collected during the assessment phase to identify the patient's health problems, needs, and potential risks. 
+Nurses use critical thinking and clinical judgment to interpret the assessment findings and formulate nursing diagnoses. 
+These nursing diagnoses are distinct from medical diagnoses and focus on actual or potential health issues that nurses can address through their interventions. 
+By accurately identifying and prioritizing nursing diagnoses, nurses can tailor their care plans to meet the unique needs of each patient, promoting effective outcomes and enhancing quality of care. </p><hr>
+
+<div class="img-container">
+<img src=https://s3.amazonaws.com/utep-uploads/wp-content/uploads/bradley/2018/06/29140153/Loan-Forgiveness_2-500x334.jpg width= "500" height= "500" ></div>
+
+<h2><b> P - planning </b></h2>
+
+<p style="font-size:130%;"> Planning is the phase where nurses collaborate with the patient, their family, and other healthcare team members to develop a comprehensive care plan tailored to the individual's needs and goals. 
+This involves setting priorities, establishing measurable goals, and determining appropriate interventions to address the identified nursing diagnoses. Nurses consider the patient's preferences, cultural beliefs, resources, and available support systems when planning care. 
+The care plan serves as a roadmap for providing organized and coordinated care, guiding the implementation phase and facilitating ongoing evaluation of the patient's progress toward their health objectives.</p><hr>
+
+<div class="img-container">
+<img src=https://nursekey.com/wp-content/uploads/2016/11/F000200f020-003b-9780323079334.jpg width= "500" height= "500" ></div>
+
+<h2><b> I - intervention </b></h2>
+
+<p style="font-size:130%;"> Intervention is the stage where nurses put the care plan into action. Based on the established goals and priorities, nurses implement specific actions to address the patient's needs and nursing diagnoses. 
+Interventions may include administering medications, providing treatments, performing procedures, educating the patient and their family, facilitating emotional support, and advocating for the patient's rights and preferences.
+Nurses tailor interventions to the individual's unique circumstances, ensuring that care is personalized and effective. By actively engaging in interventions, nurses play a vital role in promoting health, preventing complications, and facilitating recovery. </p><hr>
+
+<div class="img-container">
+<img src=https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/media/images/Blog/nursing-health-care/what_does_a_nurse_do_1.jpg width= "500" height= "500"></div>
+
+<h2><b> E - evaluation </b></h2>
+
+<p style="font-size:130%;"> Evaluation is the phase where nurses assess the patient's response to the interventions implemented during the planning stage. This involves systematically comparing the patient's progress against the established goals and expected outcomes. 
+Nurses analyze data, including observations, measurements, and feedback from the patient and their family, to determine the effectiveness of the care provided. 
+If the desired outcomes are achieved, nurses may continue with the current plan or modify it as necessary. If the outcomes are not met, nurses reassess the situation, revise the care plan, and implement new interventions to better meet the patient's needs.
+Evaluation is an ongoing process that ensures the quality and effectiveness of nursing care, promoting optimal patient outcomes and improving the overall healthcare delivery. </p><hr>
+
+
+<h3> The nursing process is important because it helps nurses provide the best care possible to each patient. It ensures that care is tailored to the individual, based on their specific needs and preferences. 
+By following a structured approach of assessment, planning, implementation, and evaluation, nurses can deliver high-quality, evidence-based care that promotes patient well-being and safety.
+It is not just systematic and organized, this process was gathered through years of conclusive evidence and it is substantial as a health worker to use this as a foundation for quality health care.</h3>
+
+<a href="https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/the-nursing-process/"> click here for more information </a><hr>
+<h3> References </h3>
+<h3>https://www.nursingworld.org/practice-policy/workforce/what-is-nursing/the-nursing-process/</h3>
+<h3>https://nurseslabs.com/nursing-process/</h3>
+<h3> https://www.wiener.co.me/?c=nursing-interventions-and-implementing-patient-care-plans-usahs-ff-VkZWOZS6 </h3>
+<h3> https://www.gcu.edu/blog/nursing-health-care/what-does-a-nurse-do</h3>
+
+
+</body>
+</html>
+
+
